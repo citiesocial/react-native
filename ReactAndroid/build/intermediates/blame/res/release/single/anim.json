@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/src/main/res/views/modal/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/src/main/res/views/modal/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/src/main/res/views/modal/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/src/main/res/devsupport/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/src/main/res/views/modal/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/src/main/res/devsupport/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/anim/abc_popup_exit.xml"
+    }
+]

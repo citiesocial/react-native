@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2a3ff9f3020ad5200813d4b83b9231ed/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2a3ff9f3020ad5200813d4b83b9231ed/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2a3ff9f3020ad5200813d4b83b9231ed/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2a3ff9f3020ad5200813d4b83b9231ed/res/layout-v21/notification_action.xml"
+    }
+]

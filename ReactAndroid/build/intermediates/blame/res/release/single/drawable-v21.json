@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2a3ff9f3020ad5200813d4b83b9231ed/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

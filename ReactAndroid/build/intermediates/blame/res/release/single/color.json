@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

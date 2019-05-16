@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/beemolin/Sites/app/citiesocial-mobile-app-2/node_modules/react-native/ReactAndroid/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/beemolin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/66d21a6b723712fa53d2415d26948625/res/color-v23/abc_tint_default.xml"
+    }
+]
